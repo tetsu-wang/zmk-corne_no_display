@@ -67,7 +67,7 @@ layers:
   - {t: '5', s: '%'}
   - '6'
   - $$mdi:arrow-up-bold$$
-  - $$mdi:apple-keyboard-caps$$
+  - AC NEXT KEYBOARD LAYOUT SELECT
   - {h: '4', s: '$$mdi:bluetooth-connect$$'}
   - RGB OFF
   - RGB ON
